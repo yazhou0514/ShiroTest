@@ -1,0 +1,10 @@
+spring-boot-shiro
+==============================
+
+新建shiro的配置类
+@Configuration
+public class ShiroConfiguration {
+}
+
+=================================
+
